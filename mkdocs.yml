@@ -1,6 +1,6 @@
 site_name: fish notes # Change this to your site name
 site_description: doctest
-site_url: sakana.tw/mkdoctest # Change this to your site URL
+site_url: http://sakana.tw/mkdoctest # Change this to your site URL
 site_author: fish
 
 theme:
