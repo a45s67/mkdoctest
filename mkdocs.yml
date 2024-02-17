@@ -11,7 +11,7 @@ theme:
     font:
         text: Ubuntu
         code: Ubuntu Mono
-    language: zh-TW
+    language: zh
     palette:
 
     # Light mode
